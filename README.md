@@ -6,12 +6,12 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://img001.prntscr.com/file/img001/q1f8mGxlQ9-7aEFIuOgrPg.png)
 
 ### Links
 
 - Github Project URL: [https://www.github.com/xgbdev/four-card-feature-section](https://www.github.com/xgbdev/four-card-feature-section)
-- Web deployed on Vercel: [Add live site URL here](https://your-live-site-url.com)
+- Web deployed on Vercel: [https://four-card-feature-section-bay-one.vercel.app](https://four-card-feature-section-bay-one.vercel.app)
 
 ## My process
 
